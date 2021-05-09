@@ -1,6 +1,6 @@
-<?php // Dùng để điều hướng
-define ('DS', DIRECTORY_SEPARATOR); //thay dấu /
-define ('HOME', dirname(__DIR__));  // quay lại Thp/
+<?php 
+define ('DS', DIRECTORY_SEPARATOR); 
+define ('HOME', dirname(__DIR__));  
 
 class HOME
 {
