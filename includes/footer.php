@@ -62,7 +62,7 @@
 
 	   	<div class="copyright">
 		     	<span>© Copyright essth 2021.com All Rights Reserved.</span> 
-		     	<span><a href="dangnhap/login.php">Design by</a> <a href="https://www.facebook.com/appshop.hr.7">ESSTH</a></span>	         	
+		     	<span><a href="dangnhap/login.php">Design by</a> <a href="">ESSTH</a></span>	         	
 		   </div>  		
    	</div>
 	   	
