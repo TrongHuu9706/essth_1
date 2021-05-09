@@ -8,7 +8,7 @@
    <header class="main-header">
    	
    	<div class="logo">
-	      <a href="../index.php">Hệ Thống Hỗ Trợ Bán Hàng</a>
+	      <a href="../index.php">Hệ Thống</a>
 	   </div> 
 
 	   <a class="menu-toggle" href="../index.php"><span>Menu</span></a>   	
@@ -39,7 +39,7 @@
 					
 					<div class="buttons">
 						<a class="button stroke smoothscroll animate-intro" href="#features" title="">Giới thiệu về ESSTH</a>
-						<a class="button stroke smoothscroll animate-intro" href="#download" title="">Nhân viên bán hàng xuất sắc</a>
+						<a class="button stroke smoothscroll animate-intro" href="#download" title=""></a>
 					</div>
 					<img src="../assets/images/img-dif/tenor.gif" class="animate-intro"  title="ESSTH" alt="loading" style="max-width: 675px" height="250px" style="opacity:0.7"> 
 			  	</div> <!-- /twelve --> 		   			
