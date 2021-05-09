@@ -211,7 +211,7 @@
    					<div class="media animate-this"  data-animate="fadeInRight">
 						 
 					   <?php
-                         //include_once ("C:\inetpub\wwwroot\project-thmilk./mvc/views/layout_master/Them/Showanh.php");
+                      
                        ?>
 					</div>   				      				
    				</div>
@@ -222,7 +222,7 @@
 
    					<p class="animate-this" data-animate="fadeInLeft">
 					   <?php
-                        // include_once ("C:\inetpub\wwwroot\project-thmilk./mvc/views/layout_master/Them/Vanban.php");
+                  
                        ?>
 					   </p>
 
@@ -254,7 +254,7 @@
 
    					<p class="animate-this" data-animate="fadeInRight">
 					   <?php
-                        // include_once ("C:\inetpub\wwwroot\project-thmilk./mvc/views/layout_master/Them/Vanban2.php");
+                      
                        ?>
 					   </p>
 
@@ -376,9 +376,9 @@
 	   	<div class="row section-intro animate-this">
 	   		<div class="col-twelve with-bottom-line">
 
-	   			<h2>Chiến lược bán hàng sắp tới.</h2>
+	   			<h2></h2>
 
-	   			<p class="lead">Chiến lược bán hàng trong tháng, quy trình tư vấn rớt in cũng như những ghi âm nổi bật.....</p>
+	   			<p class="lead"></p>
 
 	   		</div>   		
 	   	</div>
@@ -393,7 +393,7 @@
 
 	            		<div class="top-part">
 
-		            		<h3 class="plan-title">Chiến lược bán hàng</h3>
+		            		<h3 class="plan-title"></h3>
 			               <p class="plan-price"><sup>*</sup>08</p>
 			               <p class="price-month">2020</p>		             
 
@@ -408,7 +408,7 @@
 			                  <li>.</li>
 			               </ul>
 
-			               <a class="button large" href="./mvc/core/book/CHIẾN LƯỢC BÁN HÀNG THÁNG 08.pdf">Chi tiết</a>
+			               <a class="button large" href="#">Chi tiết</a>
 
 		            	</div>
 
@@ -422,7 +422,7 @@
 
 	            		<div class="top-part">
 
-		            		<h3 class="plan-title">Quy trình tư vấn rớt in</h3>
+		            		<h3 class="plan-title"></h3>
 			               <p class="plan-price"><sup>*</sup>07</p>
 			               <p class="price-month">2020</p>							
 
@@ -437,7 +437,7 @@
 			                  <li>.</li>
 			               </ul>
 
-			               <a class="button large" href="./mvc/a">Chi tiết</a>
+			               <a class="button large" href="">Chi tiết</a>
 
 		            	</div>
 	            		
@@ -451,7 +451,7 @@
 
 	            		<div class="top-part">
 
-		            		<h3 class="plan-title">Ghi âm nổi bật</h3>
+		            		<h3 class="plan-title"></h3>
 			               <p class="plan-price"><sup>*</sup>07</p>
 			               <p class="price-month">2020</p>	                		               
 
@@ -491,8 +491,7 @@
 	   		<div class="col-twelve">
 
 					<div class="text-part">
-						<h2 class="animate-this">Nhân viên bán hàng xuất sắc.</h2>
-                     <!--<img src="images/HanhKD1.jpg" title="Hạnh KDI" alt="Loading" width="320px" height="400px"><br><img src="images/ThuyKD2.jpg" title="Thúy KDII" alt="Loading" width="320px" height="400px"> 	-->
+						<h2 class="animate-this">.</h2>
 			   		<p class="lead animate-this">...</p>
 					</div>   			
 
